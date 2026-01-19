@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NexusCore Corporate Solutions",
+  "description": "A premium, high-performance corporate website for NexusCore, featuring AI-driven service recommendations, responsive design, and professional UI/UX.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
